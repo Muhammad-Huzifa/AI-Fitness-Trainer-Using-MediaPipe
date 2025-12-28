@@ -13,6 +13,3 @@ streamlit run app.py
 - Real-time form feedback
 - Automatic rep counting
 - Calorie tracking
-
-## LinkedIn Caption
-🚀 Built an AI Fitness Coach with MediaPipe! Real-time form analysis + rep counting. No ML training needed! 💪 #AI #ComputerVision #Fitness

@@ -19,8 +19,8 @@ Use **64-bit Python 3.11** and a webcam connected to the computer running the ap
 Clone the repository:
 
 ```bash
-git clone https://github.com/Muhammad-Huzifa/AI-Fitness-Trainer-Using-MediaPipe.git
-cd AI-Fitness-Trainer-Using-MediaPipe
+git clone https://github.com/Muhammad-Huzifa/ai-fitness-trainer.git
+cd ai-fitness-trainer
 ```
 
 ### Windows Command Prompt

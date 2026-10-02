@@ -1,12 +1,17 @@
 # Python cache
 __pycache__/
-*.pyc
-
-# Environment (if you have one inside the folder)
-.env
-deepenv/
-venv/
+*.py[cod]
 .ipynb_checkpoints/
 
-# OS specific
+# Local environments and credentials
+.venv/
+venv/
+deepenv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Operating system files
 .DS_Store
+Thumbs.db
